@@ -1,0 +1,8 @@
+C:\Users\lex.pham\source\repos\SqlConnectionTest\bin\Debug\SqlConnectionTest.exe.config
+C:\Users\lex.pham\source\repos\SqlConnectionTest\bin\Debug\SqlConnectionTest.exe
+C:\Users\lex.pham\source\repos\SqlConnectionTest\bin\Debug\SqlConnectionTest.pdb
+C:\Users\lex.pham\source\repos\SqlConnectionTest\obj\Debug\SqlConnectionTest.csproj.AssemblyReference.cache
+C:\Users\lex.pham\source\repos\SqlConnectionTest\obj\Debug\SqlConnectionTest.csproj.CoreCompileInputs.cache
+C:\Users\lex.pham\source\repos\SqlConnectionTest\obj\Debug\SqlConnectionTest.exe
+C:\Users\lex.pham\source\repos\SqlConnectionTest\obj\Debug\SqlConnectionTest.pdb
+C:\Users\lex.pham\source\repos\SqlConnectionTest\obj\Debug\SqlConnectionTest.exe.config
